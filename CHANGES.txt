@@ -1,6 +1,7 @@
-Version 0.1 | YYYY-mmm-DD
- - Initial Prototype
+Version 1.1 | 2024-06-25
+ - Documentation Update
 
-
-
+Version 1.0 | 2020-09-05
+ - Initial Release
+ - Low cost, low profile accessible switch
 
