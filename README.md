@@ -4,7 +4,7 @@
 
 ## Overview
 <!--- A brief summary of the project. What it does, who it is for, how much it costs. --->
-The Raindrop Switch is an assistive technology device that <INSERT DESCRIPTION FROM THE OUTLINE OF The DEVICE>. 
+The Raindrop Switch is an assistive technology device that works with standard switch adapted devices, like switch adapted toys; computer, phone, and tablet switch interfaces; and adapted gaming devices. . 
 
 The device is comprised of off-the-shelf electronics and 3D printed parts. 
 
@@ -46,7 +46,7 @@ The [Bill of Materials](/Documentation/Raindrop_Switch_BOM.xlsx) lists all of th
 
 ### 3. Print the 3D Printable components
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
+All of the files and individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 4. Assemble the Raindrop Switch
 
@@ -80,7 +80,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 Copyright (c) 2024 Neil Squire.
 
 This repository describes Open Hardware:
- - Everything needed or used to design, make, test, or prepare the <Device-Name> is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
+ - Everything needed or used to design, make, test, or prepare the Raindrop Switch is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
  - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
  - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the <Device-Name> are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
 
@@ -99,13 +99,6 @@ The documentation template was created by Makers Making Change / Neil Squire Soc
 
 ### Contributors
 <!--- List the names of the people that contributed to the design. This could include the original source of the idea, designers, testers, documenters, etc. --->
-Designers:
- - <DESIGNER 1>
- - <DESIGNER 2>
-
-Testers:
- - <TESTER 1>
- - <TESTER 2>
 
 
 ---
@@ -120,7 +113,7 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
  - Website: [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
  - GitHub: [makersmakingchange](https://github.com/makersmakingchange)
- - X (formally Twitter): [@makermakechange](https://twitter.com/makermakechange)
+ - X (formerly Twitter): [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
  - Facebook: [makersmakechange](https://www.facebook.com/makersmakechange)
  - LinkedIn: [Neil Squire Society](https://www.linkedin.com/company/neil-squire-society/)
